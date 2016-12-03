@@ -14,15 +14,15 @@ We should include most of the following:
   -Update
   -Delete
 * Websockets?         (-)
-* Other               (-)
-  -Buffer
-  -File System 
-  -Global Objects
-  -Modules
-  -Path
-  -Readline
-  -Stream
-  -Timers
-  -URL
-  -util
-  -Events
+* Other               (-) <br/>
+  -Buffer <br/>
+  -File System<br/>
+  -Global Objects<br/>
+  -Modules<br/>
+  -Path<br/>
+  -Readline<br/>
+  -Stream<br/>
+  -Timers<br/>
+  -URL<br/>
+  -util<br/>
+  -Events<br/>
