@@ -8,10 +8,11 @@ We should include most of the following:
 * Express             (-)
 * Middleware          (-)
 * MongoDB             (-)
-* 4x Restful API      (-)
-  -Create
-  -Read
-  -Update
+* 4x Restful API      (-)<br/>
+  -Create<br/>
+  -Read<br/>
+  -ReadOne</br>
+  -Update<br/>
   -Delete
 * Websockets?         (-)
 * Other               (-) <br/>
