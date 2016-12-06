@@ -30,9 +30,9 @@ We should include most of the following:
 
 ###Spiller informationer:
 
-Name
-Team
-Position
-Picture
+*Name
+*Team
+*Position
+*Picture
 
 Alle spillerenes billeder (links), navne, klub og position er tilføjet til repositoriet i en txt fil.
