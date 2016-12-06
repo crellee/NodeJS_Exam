@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_exam",
+  "version": "1.0.0",
+  "description": "##Pensum progress: We should include most of the following:",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crellee/NodeJS_Exam.git"
+  },
+  "author": "all",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crellee/NodeJS_Exam/issues"
+  },
+  "homepage": "https://github.com/crellee/NodeJS_Exam#readme"
+}
