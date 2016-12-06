@@ -1,0 +1,90 @@
+Real Madrid Club Id:2	
+http://futhead.cursecdn.com/static/img/17/players/165153.png Benzema LCF
+http://futhead.cursecdn.com/static/img/17/players/201153.png Morata RCF
+http://futhead.cursecdn.com/static/img/17/players/20801.png Ronaldo LM
+http://futhead.cursecdn.com/static/img/17/players/173731.png Bale RM
+http://futhead.cursecdn.com/static/img/17/players/177003.png Modric LCM
+http://futhead.cursecdn.com/static/img/17/players/182521.png Kroos RCM
+http://futhead.cursecdn.com/static/img/17/players/155862.png Ramos LCB
+http://futhead.cursecdn.com/static/img/17/players/120533.png Pepe RCB
+http://futhead.cursecdn.com/static/img/17/players/176676.png Marcelo LB
+http://futhead.cursecdn.com/static/img/17/players/204963.png Carvajal RB
+http://futhead.cursecdn.com/static/img/17/players/193041.png Navas GK
+
+Manchester United Club Id:7
+http://futhead.cursecdn.com/static/img/17/players/41236.png Ibrahimovic LCF
+http://futhead.cursecdn.com/static/img/17/players/231677.png Rashford RCF
+http://futhead.cursecdn.com/static/img/17/players_alt/p67304728.png Pogba LM
+http://futhead.cursecdn.com/static/img/17/players/192883.png Mkhitaryan RM
+http://futhead.cursecdn.com/static/img/17/players/54050.png Rooney LCM
+http://futhead.cursecdn.com/static/img/17/players/178088.png Mata RCM
+http://futhead.cursecdn.com/static/img/17/players/189881.png Smalling LCB
+http://futhead.cursecdn.com/static/img/17/players/225508.png Bailly RCB
+http://futhead.cursecdn.com/static/img/17/players/205988.png Shaw LB
+http://futhead.cursecdn.com/static/img/17/players/184392.png Darmian RB
+http://futhead.cursecdn.com/static/img/17/players/193080.png Gea GK
+
+Juventus Club Id:6
+http://futhead.cursecdn.com/static/img/17/players/167664.png Higuaín LCF
+http://futhead.cursecdn.com/static/img/17/players/181783.png Mandzukic RCF
+http://futhead.cursecdn.com/static/img/17/players/211110.png Dybala LM
+http://futhead.cursecdn.com/static/img/17/players/193082.png Cuadrado RM
+http://futhead.cursecdn.com/static/img/17/players/179846.png Khedira LCM
+http://futhead.cursecdn.com/static/img/17/players/173210.png Marchisio RCM
+http://futhead.cursecdn.com/static/img/17/players/52091.png Evra LB
+http://futhead.cursecdn.com/static/img/17/players/146530.png Alves RB
+http://futhead.cursecdn.com/static/img/17/players/138956.png Chellini LCB
+http://futhead.cursecdn.com/static/img/17/players/184344.png Bonucci RCB
+http://futhead.cursecdn.com/static/img/17/players/1179.png Buffon GK
+
+Bayern Club ID:4
+http://futhead.cursecdn.com/static/img/17/players/188545.png Lewandowski LCF
+http://futhead.cursecdn.com/static/img/17/players/189596.png Müller RCF
+http://futhead.cursecdn.com/static/img/17/players/213345.png Coman LM
+http://futhead.cursecdn.com/static/img/17/players/9014.png Robben RM
+http://futhead.cursecdn.com/static/img/17/players/181872.png Vidal LCM
+http://futhead.cursecdn.com/static/img/17/players/45197.png Alonso RCM
+http://futhead.cursecdn.com/static/img/17/players/197445.png Alaba LB
+http://futhead.cursecdn.com/static/img/17/players/121939.png Lahm RB
+http://futhead.cursecdn.com/static/img/17/players/183907.png Boateng LCB
+http://futhead.cursecdn.com/static/img/17/players/178603.png Hummels RCB
+http://futhead.cursecdn.com/static/img/17/players/167495.png Neuer GK
+
+Atletico Club Id:3
+http://futhead.cursecdn.com/static/img/17/players/194765.png Griezmann LCF
+http://futhead.cursecdn.com/static/img/17/players/49369.png Torres RCF
+http://futhead.cursecdn.com/static/img/17/players/184144.png Gaitán LM
+http://futhead.cursecdn.com/static/img/17/players/208418.png Carrasco RM
+http://futhead.cursecdn.com/static/img/17/players/193747.png Koke LCM
+http://futhead.cursecdn.com/static/img/17/players/146954.png Gabi RCM
+http://futhead.cursecdn.com/static/img/17/players/164169.png Luis LB
+http://futhead.cursecdn.com/static/img/17/players/146760.png Juanfran RB
+http://futhead.cursecdn.com/static/img/17/players/182493.png Godin LCB
+http://futhead.cursecdn.com/static/img/17/players/216460.png Giménez RCB
+http://futhead.cursecdn.com/static/img/17/players/200389.png Oblak GK
+
+Borussia Dortmund Club Id:5
+http://futhead.cursecdn.com/static/img/17/players/188567.png Aubameyang LCF
+http://futhead.cursecdn.com/static/img/17/players/176619.png Ramos RCF
+http://futhead.cursecdn.com/static/img/17/players/188350.png Reus LM
+http://futhead.cursecdn.com/static/img/17/players/193130.png Schürrle RM
+http://futhead.cursecdn.com/static/img/17/players/189358.png Kagawa LCM
+http://futhead.cursecdn.com/static/img/17/players/192318.png Götze RCM
+http://futhead.cursecdn.com/static/img/17/players/188802.png Schmelzer LB
+http://futhead.cursecdn.com/static/img/17/players/173771.png Piszczek RB
+http://futhead.cursecdn.com/static/img/17/players/172879.png Sokratis LCB
+http://futhead.cursecdn.com/static/img/17/players/198141.png Bartra RCB
+http://futhead.cursecdn.com/static/img/17/players/189117.png Bürki GK
+
+Arsenal Club Id:8
+http://futhead.cursecdn.com/static/img/17/players/184941.png Sanchez LCF
+http://futhead.cursecdn.com/static/img/17/players/178509.png Giroud RCF
+http://futhead.cursecdn.com/static/img/17/players/164859.png Walcott LM
+http://futhead.cursecdn.com/static/img/17/players/146562.png Cazorla RM
+http://futhead.cursecdn.com/static/img/17/players/176635.png Özil LCM
+http://futhead.cursecdn.com/static/img/17/players/186561.png Ramsey RCM
+http://futhead.cursecdn.com/static/img/17/players/177604.png Monreal LB
+http://futhead.cursecdn.com/static/img/17/players/203747.png Bellerín RB
+http://futhead.cursecdn.com/static/img/17/players/165229.png Koscielny LCB
+http://futhead.cursecdn.com/static/img/17/players/192227.png Mustafi RCB
+http://futhead.cursecdn.com/static/img/17/players/48940.png Cech GK
