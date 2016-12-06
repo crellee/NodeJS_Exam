@@ -28,5 +28,11 @@ We should include most of the following:
   -util<br/>
   -Events<br/>
 
-###Spiller billeder:
-Alle spillerenes billeder (links) er tilføjet til repositoriet i en txt fil.
+###Spiller informationer:
+
+Name
+Team
+Position
+Picture
+
+Alle spillerenes billeder (links), navne, klub og position er tilføjet til repositoriet i en txt fil.
