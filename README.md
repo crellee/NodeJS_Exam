@@ -27,3 +27,6 @@ We should include most of the following:
   -URL<br/>
   -util<br/>
   -Events<br/>
+
+###Spiller billeder:
+Alle spillerenes billeder (links) er tilføjet til repositoriet i en txt fil.
