@@ -36,3 +36,43 @@ We should include most of the following:
 * Picture
 
 Alle spillerenes billeder (links), navne, klub og position er tilføjet til repositoriet i en txt fil.
+
+
+---
+
+#Players API
+
+1. ###Create
+Create player by giving the attributes
+* Name
+* Team
+* Position
+* Picture - Will be added with file saving in the future. Will be using the GridFS from mongoDB
+
+2. ###Read
+Read a player by specifying calling a GET. You can also specify an ID, if you want to get a specific player. 
+
+3. ###Update
+You can update a player by calling the PUT and specifying an ID. 
+
+4. ###Delete
+You can delete a player by calling the Delete and specifying an ID.
+
+---
+
+#Team API
+This API is made for bundling players to a team.
+
+1. ###Create
+Create a team by giving the attributes
+* TeamName
+* Player_id
+
+2. ###Read
+Read a team by specifying calling a GET. You can also specify an ID, if you want to get a specific team. 
+
+3. ###Update
+You can update a team by calling the PUT and specifying an ID. 
+
+4. ###Delete
+You can delete a team by calling the Delete and specifying an ID.

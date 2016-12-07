@@ -4,7 +4,8 @@
   "description": "##Pensum progress: We should include most of the following:",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/crellee/NodeJS_Exam/issues"
   },
-  "homepage": "https://github.com/crellee/NodeJS_Exam#readme"
+  "engines": {
+    "node": "6.9.1"
+  },
+  "homepage": "https://github.com/crellee/NodeJS_Exam#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.12",
+    "mongoose": "^4.7.1"
+  }
 }

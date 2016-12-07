@@ -1,0 +1,21 @@
+For Players
+
+{
+	"name" : "Jannik Mortensen",
+	"team" : "Bayern",
+	"position" : "Attacker",
+	"picture" : "hej.jpg"
+}
+
+
+
+For Teams
+
+{
+	"team" : {
+		"name" : "bayern",
+		"players" : [{
+			"players_id" : "584717aa4600cf204c2019aa"
+		}]
+	}
+}
