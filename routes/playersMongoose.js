@@ -65,7 +65,7 @@ app.post('/players', function(req, res) {
             }
             else {
                 res.status(201);
-                res.send({"msg" : "Player created"});
+                res.send(data);
                 mongoose.disconnect();
             }            
         });
